@@ -94,4 +94,10 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
+<!-- How to use remote on github on any project
+  *At first write command git init 
+  *After that write command git add . 
+  *After that write git commit -m "Commit files"
+  *Then use git remote  -->
+
 **Have fun building!** 🚀
